@@ -32,7 +32,7 @@ Follow these steps to set up the project locally:
 3. **Navigate to the Project Directory**:
 
   
-   cd E-Commerce-Platform
+   cd E-Commerce
  
 
 4. **Install Dependencies**:
