@@ -4,6 +4,10 @@
 
 This project is a full-stack e-commerce platform built using **Node.js**, **Express.js**, **MongoDB**, and **EJS**. It allows users to browse, add, edit, and manage products. The platform includes essential features such as user authentication, product management, reviews, shopping cart, and wishlist functionalities.
 
+
+![Project Snapshot](https://github.com/RiddhiBansal04/E-Commerce-Platform/blob/main/snapshot1.png?raw=true)
+
+
 ## Features
 
 * **User Authentication**: Secure login/signup system powered by Passport.js for user authentication.
