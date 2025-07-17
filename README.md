@@ -49,20 +49,21 @@ Follow these steps to set up the project locally:
    In the root directory, create a `.env` file and add the following configuration:
 
   
-   PORT=5000
-   MONGODB_URI=mongodb://localhost:27017/E-Com-DB
+ 
+   RAZORPAY_KEY_ID=your-secret-id
+   RAZORPAY_KEY_SECRET=your-sercet-key
    SESSION_SECRET=your-secret-key
 
-   Replace your-random-secure-secret-key with your own long, secure, private string. Do not share this key or commit it to version control.
+   Replace your-secret-key and your-secret-id with your own long, secure, private string. Do not share this key or commit it to version control.
   
 
-6. **Start the Application**:
+7. **Start the Application**:
 
    
    npm start
    
 
-7. **Open in Browser**:
+8. **Open in Browser**:
    Visit [http://localhost:5000](http://localhost:5000) to view the application.
 
 ## Usage
